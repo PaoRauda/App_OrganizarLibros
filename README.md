@@ -3,7 +3,7 @@ App de organización de libros para DSM441 G02T
 
 ### Integrantes:
 - Paola Fernanda Ramirez Rauda RR232015
-- 
+- Calvin Jonathan Mena Dimas  MD232400
 - 
 - 
 - 
