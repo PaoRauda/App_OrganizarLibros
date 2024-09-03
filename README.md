@@ -5,7 +5,7 @@ App de organización de libros para DSM441 G02T
 - Paola Fernanda Ramirez Rauda RR232015
 - Calvin Jonathan Mena Dimas  MD232400
 - Erika Fernanda Guardado Alvarado GA220455
-- 
+- Cesia Aracely Raymundo Peraza RP231877 
 - 
 
 ### LINKS:
