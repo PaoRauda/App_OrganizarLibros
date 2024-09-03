@@ -6,7 +6,7 @@ App de organización de libros para DSM441 G02T
 - Calvin Jonathan Mena Dimas  MD232400
 - Erika Fernanda Guardado Alvarado GA220455
 - Cesia Aracely Raymundo Peraza RP231877 
-- 
+- Fernando Ernesto Urrutia Vaquero UV230171
 
 ### LINKS:
 - [Link Documento]()
