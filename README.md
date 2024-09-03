@@ -9,6 +9,6 @@ App de organización de libros para DSM441 G02T
 - Fernando Ernesto Urrutia Vaquero UV230171
 
 ### LINKS:
-- [Link Documento]()
+- [Link Documento](https://github.com/PaoRauda/App_OrganizarLibros/blob/main/DMS%20ENTREGA1.pdf)
 - [Link Trello](https://trello.com/invite/b/66d4b8ef06528ed440c648dc/ATTIfa2ee95e6a76e316a9cd67d91793ff0bB833E30C/dsm-catedra)
 - [Link MockUps](https://www.figma.com/design/A2dcdPVaiUJ9siOPtOtBIw/Untitled?node-id=0-1&node-type=CANVAS)
