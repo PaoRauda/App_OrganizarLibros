@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    colorWhite
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorPrimaryDark">#689f38</color>
+    <color name="colorPrimaryLight">#dcedc8</color>
+    <color name="colorPrimary">#8bc34a</color>
+    <color name="colorHint">#9E9E9E</color>
+
+    <!-- Texto e íconos -->
+    <color name="colorTextIcons">#212121</color>
+
+    <!-- Color de acento -->
+    <color name="colorAccent">#8bc34a</color>
+
+    <!-- Color de fondo -->
+    <color name="colorBackground">#dcedc8</color>
+
+    <!-- Color de superficie -->
+    <color name="colorSurface">#9EB484</color>
+
+    <!-- Color de error  -->
+    <color name="colorError">#b71c1c</color>
+</resources>

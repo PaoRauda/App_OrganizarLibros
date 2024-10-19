@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/activity_view_main"
+        android:title="@string/catalogo"
+        android:icon="@drawable/baseline_library_add_24"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_view_mybooks"
+        android:title="@string/mis_libros"
+        android:icon="@drawable/baseline_collections_bookmark_24"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_sign_out"
+        android:title="@string/cerrar_sesi_n"
+        android:icon="@drawable/baseline_logout_24"
+        app:showAsAction="ifRoom" />
+
+</menu>

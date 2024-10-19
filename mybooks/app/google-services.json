@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "97698534584",
+    "project_id": "mybooks-1385a",
+    "storage_bucket": "mybooks-1385a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97698534584:android:eb3babc11312705ac3504d",
+        "android_client_info": {
+          "package_name": "edu.udb.mybooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97698534584-77oa77bnhk1c7s15m774cqao1c5vbbfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjGwM-Ke6pex4VzpvjxsLBHTpvtXX9M8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97698534584-77oa77bnhk1c7s15m774cqao1c5vbbfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

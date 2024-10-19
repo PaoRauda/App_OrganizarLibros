@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Mis Libros</string>
+    <string name="hint_editTextEmailAddress">Correo Electrónico</string>
+    <string name="hint_txtPassword">Contraseña</string>
+    <string name="btnlogin_text">Autenticar</string>
+    <string name="login_textView">¿No tienes una cuenta?</string>
+    <string name="login_textView2">Registrar</string>
+    <string name="item_logout">Cerrar Sesion</string>
+    <string name="buttonViewCart">Ver Canasta</string>
+    <string name="buttonViewHistory">Ver Historial</string>
+    <string name="etRegisterEmail">Correo electrónico</string>
+    <string name="etRegisterPassword">Contraseña</string>
+    <string name="btnRegister">Registrarse</string>
+    <string name="btnLogin">Iniciar sesión</string>
+    <string name="textViewTotal">Total: 0 USD</string>
+    <string name="buttonCompra">Comprar</string>
+    <string name="btnAgregar">Agregar</string>
+
+    <!-- STRINGS activity_crear_recurso.xml -->
+    <string name="title_activity_crear_recurso">Agregar Nuevo Recurso</string>
+    <string name="editTextName_activity_crear_recurso">Título</string>
+    <string name="editTextType_activity_crear_recurso">Tipo de recurso</string>
+    <string name="editTextUrl_activity_crear_recurso">URL del recurso</string>
+    <string name="editTextDescription_activity_crear_recurso">Descripción</string>
+    <string name="btnGuardar_activity_crear_recurso">Guardar</string>
+    <string name="nameEditTextnombre_activity_actualizar_recurso">Título</string>
+    <string name="typeEditText_activity_actualizar_recurso">Tipo</string>
+    <string name="urlEditText_activity_actualizar_recurso">URL</string>
+    <string name="descriptionEditText_activity_actualizar_recurso">Descripción</string>
+    <string name="actualizarButton_activity_actualizar_recurso">Actualizar</string>
+    <string name="buttonBuscar">Buscar</string>
+    <string name="buttonMostrarTodos">Mostrar Todos</string>
+    <string name="editTextResourceId">Ingrese el ID del recurso</string>
+    <string name="fab_agregar">Agregar recurso</string>
+    <string name="editTextTitle_update_book">Título</string>
+    <string name="editTextCategory_update_book">Categoría</string>
+    <string name="editTextAuthor_update_book">Autor</string>
+    <string name="editTextDescription_update_book">Descripción</string>
+    <string name="btnUpdate_update_book">Actualizar</string>
+    <string name="title_activity_create_book">Añadir libro\n</string>
+    <string name="editTextTitle_create_book">Título\n</string>
+    <string name="editTextCategory_create_book">Categoría</string>
+    <string name="editTextAuthor_create_book">Autor</string>
+    <string name="editTextDescription_create_book">Descripción</string>
+    <string name="btnSave_create_book">Guardar</string>
+    <string name="catalogo">Catálogo</string>
+    <string name="mis_libros">Mis libros</string>
+    <string name="cerrar_sesi_n">Cerrar Sesión</string>
+</resources>
